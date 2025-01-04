@@ -1,0 +1,4 @@
+repository "Chess3D@FZApplications@cloud"
+  path "/"
+    br "/main"
+    co "/main"
